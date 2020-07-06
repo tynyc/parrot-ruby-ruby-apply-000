@@ -3,3 +3,5 @@ def parrot
 end
 
 parrot
+
+parrot + "Squawk!"
